@@ -10,10 +10,10 @@ Once Ansible is installed, make sure you are able to ssh into your hosts as ansi
 
 Once you have Ansible setup on your workstation, you can clone this repo and run the playbook to provision Java on your remote hosts.
 
-# Using this Repo Locally
+# Using this playbook locally
 
 If you want to use this playbook locally (either from your workstation or host), you can run this command ```sudo ansible-pull -U https://github.com/GcottrellThoughtworks/provision_java_locally.git``` which will run the local version of this playbook. Please see the ReadME before running. 
 
-# Purpose
+# Repo Purpose
 
 This repo is meant to be used to provision your hosts, so please see provision_java_locally if you are looking to run this playbook on your workstation or host locally.
