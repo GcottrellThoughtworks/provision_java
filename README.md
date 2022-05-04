@@ -6,4 +6,4 @@ Please see linked documentation for installing Ansible on your workstation: http
 
 # Using this Repo
 
-Once you have Ansible setup on your workstation, you can run this repo with ```bash sudo ansible-pull -U https://github.com/GcottrellThoughtworks/provision_java.git``` (If you want to run this playbook locally) or clone this repo and run the playbook to provision Java on your remote hosts.
+Once you have Ansible setup on your workstation, you can run this repo with ```sudo ansible-pull -U https://github.com/GcottrellThoughtworks/provision_java.git``` (If you want to run this playbook locally) or clone this repo and run the playbook to provision Java on your remote hosts.
