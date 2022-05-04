@@ -16,4 +16,4 @@ If you want to use this playbook locally (either from your workstation or host),
 
 # Repo Purpose
 
-This repo is meant to be used to provision your hosts, so please see [provision_java_locally](https://github.com/GcottrellThoughtworks/provision_java_locally) if you are looking to run this playbook on your workstation or host locally.
+This repo is meant to be used to provision your hosts. Please see [provision_java_locally](https://github.com/GcottrellThoughtworks/provision_java_locally) if you are looking to run this playbook on your workstation or host locally.
